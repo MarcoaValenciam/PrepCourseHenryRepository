@@ -1,2 +1,2 @@
 # PrepCourseHenryRepository
-Primer Repositorio Prep Curos Henry
+Primer Repositorio Prep Curso Henry
